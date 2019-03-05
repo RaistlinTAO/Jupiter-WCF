@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jupiter", "Jupiter\Jupiter.csproj", "{7337DCFF-D838-416C-9190-B5B3EF2A73EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D.E.M.O.N.Catalyst", "D.E.M.O.N.Catalyst\D.E.M.O.N.Catalyst.csproj", "{6CF770A6-D151-4A55-BE67-6D71F06CAB84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7337DCFF-D838-416C-9190-B5B3EF2A73EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7337DCFF-D838-416C-9190-B5B3EF2A73EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7337DCFF-D838-416C-9190-B5B3EF2A73EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7337DCFF-D838-416C-9190-B5B3EF2A73EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF770A6-D151-4A55-BE67-6D71F06CAB84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF770A6-D151-4A55-BE67-6D71F06CAB84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF770A6-D151-4A55-BE67-6D71F06CAB84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF770A6-D151-4A55-BE67-6D71F06CAB84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
